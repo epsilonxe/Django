@@ -34,6 +34,8 @@ Now run a docker compose
 docker-compose up
 ```
 
+The webapp is now running and can be surfed at ```localhost``` or ```127.0.0.1```
+
 To stop and remove the containers, just simply execute the command
 ```sh
 docker-compose down
