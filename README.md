@@ -14,7 +14,7 @@ Next step is to run django via docker compose with the command
 ```sh
 docker-compose run web django-admin.py startproject webapp .
 ```
-Modify ```Database``` section in ```you-new-project/webapp/setting.py```
+Modify ```DATABASES``` section in ```you-new-project/webapp/setting.py```
 with the following setting
 ```
 DATABASES = {
