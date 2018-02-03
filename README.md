@@ -1,5 +1,5 @@
 # Django
-Docker Compose on Django
+Docker Compose on Django and PostgreSQL
 
 ## Usage
 Clone this repository, e.g.,
