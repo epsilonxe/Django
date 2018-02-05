@@ -1,8 +1,6 @@
 # Django
 Docker Compose on Django and PostgreSQL
 
-[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
-
 ## Usage
 Clone this repository, e.g.,
 ```sh
